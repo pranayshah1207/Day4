@@ -1,1 +1,22 @@
+<<<<<<< HEAD
 My name is chirag
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+pankaj:
+
+public class HelloWorld{
+
+	public static void main(String[] args){
+	
+	system.out.println("Hello World");
+
+	}
+}
+=======
+Hi,I'm pranay.
+>>>>>>> 98220512b61f9cf33de0379be16311ccc2d55fbe
+=======
+hi, I am chirag.......
+>>>>>>> 82e3d341fba30fa655b2e3fb94353a5389714e0f
+>>>>>>> 6bb8d80a7ad30e6e03169644e7e9edd56a9c8378
