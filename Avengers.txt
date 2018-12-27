@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 My name is chirag
+=======
+hey, it's Mit.
+=======
+<<<<<<< HEAD
+hi, I am Pranay shah
+>>>>>>> 9f6c4de8bd3f7bd3bbcbf751f1e8e6892e3ccebe
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -20,3 +27,7 @@ Hi,I'm pranay.
 hi, I am chirag.......
 >>>>>>> 82e3d341fba30fa655b2e3fb94353a5389714e0f
 >>>>>>> 6bb8d80a7ad30e6e03169644e7e9edd56a9c8378
+<<<<<<< HEAD
+=======
+>>>>>>> 22cf1d168c9b0b0f02229a997889f097b0e5c697
+>>>>>>> 9f6c4de8bd3f7bd3bbcbf751f1e8e6892e3ccebe
