@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pankaj:
 
 public class HelloWorld{
@@ -8,3 +9,6 @@ public class HelloWorld{
 
 	}
 }
+=======
+Hi,I'm pranay.
+>>>>>>> 98220512b61f9cf33de0379be16311ccc2d55fbe
